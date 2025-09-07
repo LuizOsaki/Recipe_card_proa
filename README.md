@@ -1,4 +1,4 @@
-🥗 Card de Receita – Salada Grega
+# 🥗 Card de Receita – Salada Grega
 
 Este é um projeto de **cartão de receita** feito com HTML e CSS, apresentando uma salada grega clássica em um layout limpo, moderno e responsivo.
 
@@ -6,7 +6,7 @@ Este é um projeto de **cartão de receita** feito com HTML e CSS, apresentando 
 
 ---
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 
 - 🖼 Apresentação de imagem da receita
 - 📝 Título e descrição com estilo moderno
@@ -15,14 +15,14 @@ Este é um projeto de **cartão de receita** feito com HTML e CSS, apresentando 
 
 ---
 
-🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 - **HTML5**
 - **CSS3**
 
 ---
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 📦 card-receita/
 ├── index.html # Estrutura principal da página
@@ -31,7 +31,9 @@ Este é um projeto de **cartão de receita** feito com HTML e CSS, apresentando 
 └── img/
 └── Salada grega.jpg # Imagem da receita
 
-💻 Como visualizar
+---
+
+## 💻 Como visualizar
 
 1. Clone este repositório:
 
