@@ -2,8 +2,6 @@
 
 Este é um projeto de **cartão de receita** feito com HTML e CSS, apresentando uma salada grega clássica em um layout limpo, moderno e responsivo.
 
-![Preview do projeto](preview.png) <!-- Substitua por um print do projeto -->
-
 ---
 
 ## 📌 Funcionalidades
